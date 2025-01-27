@@ -1,4 +1,4 @@
-import user from '../fixtures/users/user.json'
+import user from '../../fixtures/users/user.json'
 
 describe('Funcionalidade de login', ()=>{
     before(()=>{
